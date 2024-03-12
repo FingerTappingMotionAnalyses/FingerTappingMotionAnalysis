@@ -1,5 +1,4 @@
-# Finger Tapping Motion Analyses
-
+# Finger Tapping Motion Analysis
 ### Cite out paper :
 Grace Yoojin Lee, Hee Yeon Kwon, Kanggil Park et al.
 
